@@ -1,5 +1,5 @@
 # Eight-Puzzle
-Shout out to my project partner s.x.
+Shout out to my project partner
 
 We worked on a python based object-oriented program for a computer science course. 
 The  project  involved  applying  state-space  search  to  a  classic  problem  known  as  the  Eight Puzzle.
